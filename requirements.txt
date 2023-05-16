@@ -1,8 +1,7 @@
 
-pywatts @ git+https://github.com/KIT-IAI/pyWATTS@76d11d4b3030627c1bf29b3efcfbee8526efcfcd
-pywatts-pipeline @ git+https://github.com/KIT-IAI/pywatts-pipeline/@db8bc0867595ee35ab15708610cdecf97d2794d1
+pywatts @ git+https://github.com/KIT-IAI/pyWATTS
 jupyter
-pandas
 statsmodels
 xgboost
+schemdraw
 
